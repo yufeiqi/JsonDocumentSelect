@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+    <TargetFrameworks>net6.0</TargetFrameworks>
+	<Authors>Feiqi Yu</Authors>
+    <Product>JsonDocumentSelect</Product>
+    <Description>JsonDocumentSelect is a class library to extract elements from JSON with single line expressions</Description>
+    <Copyright>Copyright © Feiqi Yu 2022</Copyright>
+    <Summary>JsonDocumentSelect is a class library to extract elements from JSON (JsonDocument) with single line expressions. The code is a port of the jsonpath parser in Newtonsoft.Json.</Summary>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Title>JsonDocumentSelect</Title>
+    <PackageTags>JsonDocumentSelect, Json, JsonDocument, JsonPath</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/yufeiqi/JsonDocumentSelect</RepositoryUrl>
+  </PropertyGroup>
+  
+</Project>

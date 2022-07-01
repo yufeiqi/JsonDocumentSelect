@@ -1,0 +1,12 @@
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\obj\Debug\net6.0\JsonDocumentSelect.csproj.AssemblyReference.cache
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\obj\Debug\net6.0\JsonDocumentSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\obj\Debug\net6.0\JsonDocumentSelect.AssemblyInfoInputs.cache
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\obj\Debug\net6.0\JsonDocumentSelect.AssemblyInfo.cs
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\obj\Debug\net6.0\JsonDocumentSelect.csproj.CoreCompileInputs.cache
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\bin\Debug\net6.0\JsonDocumentSelect.deps.json
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\bin\Debug\net6.0\JsonDocumentSelect.dll
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\bin\Debug\net6.0\JsonDocumentSelect.pdb
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\obj\Debug\net6.0\JsonDocumentSelect.dll
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\obj\Debug\net6.0\refint\JsonDocumentSelect.dll
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\obj\Debug\net6.0\JsonDocumentSelect.pdb
+C:\Users\pyu\source\repos\tt\JsonDocumentSelect\src\JsonDocumentSelect\obj\Debug\net6.0\ref\JsonDocumentSelect.dll
