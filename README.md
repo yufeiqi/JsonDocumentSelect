@@ -5,6 +5,8 @@ The JsonPath parser is based on the [Newtonsoft.Json](https://github.com/JamesNK
 
 But the JsonDocumentPath not update for a long time and not accept my pr for a long time, so I decide to create the JsonDocumentSelect library.
 
+[NuGet Package](https://www.nuget.org/packages/JsonDocumentSelect)
+
 ### How to use it
 ```csharp
   string json = @"{
