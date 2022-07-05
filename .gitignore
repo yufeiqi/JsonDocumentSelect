@@ -20,3 +20,5 @@ _ReSharper.*
 *.orig
 .DS_Store
 *.obj/
+src/JsonDocumentSelect/obj/
+src/JsonDocumentSelect.Test/obj/
